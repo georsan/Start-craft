@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Guerrero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Guerrero\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=tribu
+comment1.target=Guerrero(java.lang.String)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Guerrero\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setTribu()
+comment3.text=\r\n\ Depende\ de\ la\ tribu\ a\ la\ que\ pertenezca\ el\ guerrero\ tendra\ un\ aspecto\ diferente\r\n
+comment4.params=
+comment4.target=void\ actualizarPosicion()
+comment4.text=\r\n\ Este\ metodo\ determina\ el\ movimiento\ de\ los\ guerreros.\r\n
+numComments=5

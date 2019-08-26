@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Constructor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Constructor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Tribu
+comment1.target=Constructor(java.lang.String)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Constructor\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ actualizarPosicion()
+comment3.text=\r\n\ Este\ metodo\ determina\ el\ movimiento\ de\ los\ constructores.\r\n
+comment4.params=
+comment4.target=void\ setTribu()
+comment4.text=\r\n\ Depende\ de\ la\ tribu\ a\ la\ que\ pertenezca\ el\ constructor\ tendra\ un\ aspecto\ diferente\r\n
+numComments=5
