@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CampoDeBatalla
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CampoDeBatalla\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CampoDeBatalla()
+comment1.text=\r\n\ Constructor\ de\ CampoDeBatalla\r\n
+comment2.params=
+comment2.target=void\ crearPersonajes()
+comment2.text=\r\n\ Crear\ los\ personajes\ y\ estructuras\ en\ el\ campo\ de\ batalla.\r\n
+comment3.params=
+comment3.target=void\ checkBatalla()
+comment3.text=\r\n\ Este\ metodo\ recorre\ las\ casillas\ del\ campo\ de\ batalla,\ si\ encuentra\ dos\ actores\ de\ diferentes\ tribus\r\n\ llama\ al\ metodo\ batalla(),\ el\ cual\ decide\ el\ resultado\ de\ dicha\ pelea.\r\n
+comment4.params=A\ R
+comment4.target=void\ batalla(Tribu,\ Tribu)
+comment4.text=\r\n\ Este\ metodo\ revisa\ el\ rol\ de\ los\ actores\ que\ se\ encuentren\ en\ la\ misma\ casilla\ del\ campo\r\n\ de\ batalla\ para\ establecer\ una\ especie\ de\ probabilidad\ que\ tienen\ de\ ganar\ o\ perder\ la\ pelea\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ act\ del\ campo\ de\ batalla\r\n
+numComments=6
